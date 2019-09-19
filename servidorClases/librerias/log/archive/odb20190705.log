@@ -1,0 +1,42 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-07-05 22:07:37 #1 store] 
+Database 'C:\Users\Curro\Documents\NetBeansProjects\servidorClases\xlsproductos\productosini.odb' is opened by 2876@DESKTOP-3UENM7F
+
+[2019-07-05 22:07:37 #2 store] 
+Configuration path: ?
+
+[2019-07-05 22:07:37 #3 type.registry] 
+New type basedatos.modelos.Producto
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-07-05 22:08:17 #1 store] 
+Database 'C:\Users\Curro\Documents\NetBeansProjects\servidorClases\xlsproductos\productosini.odb' has been recovered (tr. 1-3)
+
+[2019-07-05 22:08:17 #2 store] 
+Database 'C:\Users\Curro\Documents\NetBeansProjects\servidorClases\xlsproductos\productosini.odb' is opened by 5280@DESKTOP-3UENM7F
+
+[2019-07-05 22:08:17 #3 store] 
+Configuration path: ?
+
+[2019-07-05 22:08:17 #4 type] 
+Type basedatos.modelos.Producto is not enhanced.
+
+[2019-07-05 22:08:18 #5 store] 
+Database 'C:\Users\Curro\Documents\NetBeansProjects\servidorClases\xlsproductos\productosini.odb' is closed by 5280@DESKTOP-3UENM7F
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-07-05 22:13:09 #1 store] 
+Database 'C:\Users\Curro\Documents\NetBeansProjects\servidorClases\xlsproductos\productosini.odb' is opened by 5400@DESKTOP-3UENM7F
+
+[2019-07-05 22:13:09 #2 store] 
+Configuration path: ?
+
+[2019-07-05 22:13:09 #3 type] 
+Type basedatos.modelos.Producto is not enhanced.
+
+[2019-07-05 22:13:10 #4 store] 
+Database 'C:\Users\Curro\Documents\NetBeansProjects\servidorClases\xlsproductos\productosini.odb' is closed by 5400@DESKTOP-3UENM7F
+
